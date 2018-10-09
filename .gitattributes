@@ -3,3 +3,4 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+jars/assets/objects/** filter=lfs diff=lfs merge=lfs -text
